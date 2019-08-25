@@ -1,4 +1,7 @@
 shdhwbbdhdhdh
 这是需要合并的分支
+HEAD
 这是master的内容
-eeeeeee
+eeeeeee这是mergedemo上的内容
+4ffffff
+
