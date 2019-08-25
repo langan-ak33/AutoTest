@@ -4,4 +4,6 @@ HEAD
 这是master的内容
 eeeeeee这是mergedemo上的内容
 4ffffff
+version1
+version2
 
